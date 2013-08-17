@@ -8,7 +8,8 @@ require.config( {
             "jquery": "libs/jquery/jquery-2.0.3",
             "jquerymobile": "libs/jquerymobile/jquery.mobile-1.3.2",
             "underscore": "libs/underscore/underscore",
-            "backbone": "libs/backbone/backbone"
+            "backbone": "libs/backbone/backbone",
+			"mustache": "libs/mustache/mustache"
 
       },
 
